@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10-jun-2021, 8:47:32
+    Author     : Desarrollo web
+*/
+
+
+
+:root {
+    --main-blue-color: #00255a;
+    --main-yellow-color: #ffd608;
+}
+
+.delit-padin-body-modal {
+    padding: 0px;
+}
+
+.modal-content {
+    overflow: hidden;
+}
+.row-bts-pagos {
+    padding: 5px 0px;
+    background: var(--main-blue-color);
+}
+
+.header-modal-pagos {
+    background: var(--main-yellow-color);
+}
+
+.modal .modal-header {
+    background: var(--main-yellow-color);
+    color: var(--main-blue-color);
+}
+
+.modal .modal-header h5 {
+    font-size: 20px;
+    color: var(--main-blue-color);
+}
